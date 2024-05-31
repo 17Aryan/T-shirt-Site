@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "name": "Green Polo",
+      "color": "Green",
+      "type": "Polo",
+      "gender": "Male",
+      "price": 1900,
+      "stock": 10,
+      "image": "https://example.com/images/green-polo.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Red T-shirt",
+      "color": "Red",
+      "type": "T-shirt",
+      "gender": "Female",
+      "price": 350,
+      "stock": 15,
+      "image": "https://example.com/images/red-tshirt.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Blue V-neck",
+      "color": "Blue",
+      "type": "V-neck",
+      "gender": "Unisex",
+      "price": 450,
+      "stock": 8,
+      "image": "https://example.com/images/blue-vneck.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Yellow Crew Neck",
+      "color": "Yellow",
+      "type": "Crew Neck",
+      "gender": "Male",
+      "price": 500,
+      "stock": 5,
+      "image": "https://example.com/images/yellow-crewneck.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Black Hoodie",
+      "color": "Black",
+      "type": "Hoodie",
+      "gender": "Female",
+      "price": 700,
+      "stock": 7,
+      "image": "https://example.com/images/black-hoodie.jpg"
+    }
+  ]
